@@ -1,0 +1,10 @@
+img{
+    width:500px ; 
+    border: 10px solid black;
+    cursor:pointer;
+}
+img:hover{
+    border: 5px solid red;
+    zoom: 150%;
+   
+}
