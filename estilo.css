@@ -1,0 +1,11 @@
+img
+{
+ width: 300px;
+ border: 10px solid #000000;
+ cursor: pointer;
+}
+ img:hover
+ {
+    border: 5px solid red;
+    zoom: 80%;
+ }
